@@ -58,7 +58,7 @@ CONNECTION_POINT_ENTRY_P(piid) // (Visual Studio 2017)
 [in] The GUID of the interface being added to the connection point map.
 
 *piid*<br/>
-[in] Pointer to the GUID of the interface being adde.
+[in] Pointer to the GUID of the interface being added.
 
 ### Remarks
 
